@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Why is there a urinal in the standard porta potty?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">It’s a practical design feature to help keep the main toilet seat cleaner and to extend the service life of the unit by reducing the use of toilet paper.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What do you do differently for winter rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We use a special anti-freeze brine in the waste tank to prevent it from freezing solid. We also require our customers to provide a clear, safe path for our delivery and service trucks in snowy conditions.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What's the most important thing for a fall festival?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Besides having enough units for the crowd, a large, multi-bay handwashing station is the most critical component for a family-friendly fall event.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is the cost of a porta potty for a weekend?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The cost for a porta potty for a weekend is very affordable. The exact porta potty rental price depends on your location and the type of unit you choose. Contact us for a quick, practical quote.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I put a heater inside a standard porta potty?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No. For safety reasons, you should never place any type of external heating element inside a standard plastic porta potty. If you need heat, our fully-equipped luxury restroom trailers are the safe and correct solution.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
